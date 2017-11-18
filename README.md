@@ -1,9 +1,9 @@
 # waveflip
 React Native App
 
-## Getting started with React Native.##
-# Instructions on how to get started can be found here:
-# https://facebook.github.io/react-native/docs/getting-started.html
+## Getting started with React Native.
+Instructions on how to get started can be found here:
+https://facebook.github.io/react-native/docs/getting-started.html
 1. $ npm install -g create-react-native-app
 1.1 Issue found when installing React Native
     https://github.com/facebookincubator/create-react-app/issues/138
